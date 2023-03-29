@@ -1,8 +1,20 @@
 .navbar {
     font-style: italic;
     font-size: 50px;
-    color: black
+    color: #faf8ea;
+    margin: 25px;
+    margin-top: 20px;
+    padding: 25px;
+    background-color: #0a549c;
 }
 
-  
+.nav-link {
+    font-size: 20px;
+    font-style: normal;
+    padding-right: 80px;
+    float: right;
+    margin: 10px;
+    margin-top: 30px;
+    color: #faf8ea;
+}
   
