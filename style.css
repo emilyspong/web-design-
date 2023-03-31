@@ -33,9 +33,16 @@ body, html {
     left: 50%;
     transform: translate(-50%, -50%);
     color: white;
-    color: #0a549c;
+    color: #fdaadd;
 }
 
-.body {
-    background: pink;
+body {
+    background:#faf8ea;
+}
+
+.main-photo {
+    width: 300px;
+    position: absolute;
+    top: 20%;
+    left: 40%;
 }
