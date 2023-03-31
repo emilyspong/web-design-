@@ -20,6 +20,10 @@
   
 body, html {
     height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
 }
 
 .hero-text {
@@ -30,4 +34,8 @@ body, html {
     transform: translate(-50%, -50%);
     color: white;
     color: #0a549c;
+}
+
+.body {
+    background: pink;
 }
