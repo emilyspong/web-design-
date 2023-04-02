@@ -72,12 +72,32 @@ body {
     left: 70%;
 }
 
-.rectangle {
+.rectangle-1 {
     position: absolute;
     height: 275px;
     width: 574px;
     background-color: #fdaadd;
     top: 27%;
     left: 32%;
+    z-index: -1;
+}
+
+.rectangle-2 {
+    position: absolute;
+    height: 400px;
+    width: 300px;
+    background-color: #0a549c;
+    top: 74%;
+    left: 10%;
+    z-index: -1;
+}
+
+.rectangle-3 {
+    position: absolute;
+    height: 400px;
+    width: 300px;
+    background-color: #fdaadd;
+    top: 134%;
+    left: 72%;
     z-index: -1;
 }
