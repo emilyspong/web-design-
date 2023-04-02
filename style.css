@@ -71,3 +71,13 @@ body {
     top: 130%;
     left: 70%;
 }
+
+.rectangle {
+    position: absolute;
+    height: 275px;
+    width: 574px;
+    background-color: #fdaadd;
+    top: 27%;
+    left: 32%;
+    z-index: -1;
+}
